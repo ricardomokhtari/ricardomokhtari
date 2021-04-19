@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **an MEng degree in Molecular Bioengineering at Imperial College London**
 
-- 🌱 I’m currently learning about [**attention - it's all we need**](https://arxiv.org/pdf/1706.03762.pdf)
+- 🌱 I’m currently learning about [**the future of AI**](https://www.nature.com/articles/s41586-020-03051-4.pdf)
 - 📊 Take a look at [**some of my Data Science Projects**](https://ricardomokhtari.github.io/Data-Science-Projects/)
 
 - 🔎 Find out more about me [**here**](https://ricardomokhtari.github.io/)
