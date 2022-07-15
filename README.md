@@ -2,9 +2,9 @@
 <h3 align="center">Final Year Bioengineer at Imperial</h3>
 
 
-- 🔭 I’m currently working on **an MEng degree in Molecular Bioengineering at Imperial College London**
+- 🔭 I’m currently working as a **Graduate Data Scientist at AstraZeneca**
 
-- 🌱 I’m currently learning about [**the future of AI**](https://www.nature.com/articles/s41586-020-03051-4.pdf)
+- 🌱 I’m currently learning about [**self supervised learning**](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
 - 📊 Take a look at [**some of my Data Science Projects**](https://ricardomokhtari.github.io/Data-Science-Projects/)
 
 - 🔎 Find out more about me [**here**](https://ricardomokhtari.github.io/)
