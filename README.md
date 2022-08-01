@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Final Year Bioengineer at Imperial</h3>
+<h3 align="center">Graduate Data Scientist at AstraZeneca</h3>
 
 
 - 🔭 I’m currently working as a **Graduate Data Scientist at AstraZeneca**
