@@ -1,15 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Graduate Data Scientist at AstraZeneca</h3>
-
-
-- 🔭 I’m currently working as a **Graduate Data Scientist at AstraZeneca**
+<h3 align="center">Graduate AI Research Scientist at AstraZeneca</h3>
 
 - 🌱 I’m currently learning about [**self supervised learning**](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
-- 📊 Take a look at [**some of my Data Science Projects**](https://ricardomokhtari.github.io/Data-Science-Projects/)
-
-- 🔎 Find out more about me [**here**](https://ricardomokhtari.github.io/)
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardomokhtari&show_icons=true&locale=en&layout=compact&theme=radical" alt="ricardomokhtari" /></p>
