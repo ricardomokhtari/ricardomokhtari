@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">Graduate AI Research Scientist at AstraZeneca</h3>
 
-- 🌱 I’m currently learning about [**self supervised learning**](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/)
+- I specialise in developing and applying Computer Vision approaches to medical data.
+- I'm currently working on [lifelong machine learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
+- I'm currently learning about [transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)), [self-supervised learning](https://ai.facebook.com/blog/self-supervised-learning-the-dark-matter-of-intelligence/) and [language models](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 <h3 align="left">Languages and Tools:</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardomokhtari&show_icons=true&locale=en&layout=compact&theme=radical" alt="ricardomokhtari" /></p>
