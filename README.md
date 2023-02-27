@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
-<h3 align="center">Graduate AI Research Scientist at AstraZeneca</h3>
+<h3 align="center">AI Research Scientist at AstraZeneca</h3>
 
 - I specialise in developing and applying Computer Vision approaches to medical data.
 - I'm currently working on [lifelong machine learning](https://www.cs.uic.edu/~liub/lifelong-machine-learning-draft.pdf)
