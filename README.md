@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ricardo</h1>
 <h3 align="center">Senior AI Scientist at AstraZeneca</h3>
 
-- I specialise in developing and applying Computer Vision approaches to medical data.
+I specialise in developing and applying Computer Vision approaches to medical data.
 
 <h3 align="left">Languages and Tools:</h3>
 
